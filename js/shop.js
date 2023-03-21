@@ -2,9 +2,9 @@
 var products = [
    {
         id: 1,
-        name: 'cooking oil',
-        price: 10.5,
-        type: 'grocery',
+        name: 'Camera Sony ILCE-7SM3',
+        price: 3000,
+        type: 'camera',
         offer: {
             number: 3,
             percent: 20
@@ -12,15 +12,15 @@ var products = [
     },
     {
         id: 2,
-        name: 'Pasta',
-        price: 6.25,
-        type: 'grocery'
+        name: 'Camera Sony ILCE-9M2',
+        price: 4000,
+        type: 'camera'
     },
     {
         id: 3,
-        name: 'Instant cupcake mixture',
-        price: 5,
-        type: 'grocery',
+        name: 'Camera Sony ILCE-7C',
+        price: 3500,
+        type: 'camera',
         offer: {
             number: 10,
             percent: 30
@@ -28,39 +28,39 @@ var products = [
     },
     {
         id: 4,
-        name: 'All-in-one',
-        price: 260,
-        type: 'beauty'
+        name: 'SELP1020G',
+        price: 1300,
+        type: 'Objectives'
     },
     {
         id: 5,
-        name: 'Zero Make-up Kit',
-        price: 20.5,
-        type: 'beauty'
+        name: 'SEL15F14G',
+        price: 1000,
+        type: 'Objectives'
     },
     {
         id: 6,
-        name: 'Lip Tints',
-        price: 12.75,
-        type: 'beauty'
+        name: 'SEL11F18',
+        price: 1500,
+        type: 'Objectives'
     },
     {
         id: 7,
-        name: 'Lawn Dress',
-        price: 15,
-        type: 'clothes'
+        name: 'XLR-H1',
+        price: 250,
+        type: 'Accessories'
     },
     {
         id: 8,
-        name: 'Lawn-Chiffon Combo',
-        price: 19.99,
-        type: 'clothes'
+        name: 'RMT-P1BT',
+        price: 300,
+        type: 'Accessories'
     },
     {
         id: 9,
-        name: 'Toddler Frock',
-        price: 9.99,
-        type: 'clothes'
+        name: 'GP-VPT1',
+        price: 400,
+        type: 'Accessories'
     }
 ]
 // Array with products (objects) added directly with push(). Products in this array are repeated.
